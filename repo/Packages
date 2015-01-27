@@ -5,12 +5,12 @@ Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananaiphone.deb
 Size: 1767066
-MD5sum: 3804704818a4bac300dc60d9c006754c
-SHA1: ba64d6dfb88b7607465b0db2df47c8dac94fe5f4
-SHA256: 3ff2517b21362ee800210ca3c3ff8f2462810f55621d410f2f6725828f36f93f
+MD5sum: 27c21bb461ffd853b6c64c04b52ee7b5
+SHA1: 9c6a622ec7b99ae01c668c86a498ad22da483d4c
+SHA256: 8b4997938fabdc86d76ae603cec8d0749c067a1441a99bbf70b0c38b15c033af
 Section: Space Banana
 Homepage: http://www.djaovx.me/
 Description: Space Banana for iPhone.
 Author: Djaovx <Djaovx@outlook.com>
 Name: Space Banana (iPhone)
-
+Icon:///Library/Themes/Space Banana.theme/Icon.png
