@@ -1,16 +1,16 @@
 Package: com.djaovx.spacebananaiphone
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Djaovx < Djaovx@outlook.com >
+Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananaiphone.deb
-Size: 1724130
-MD5sum: 28537ec3a6a516362186987a4963e532
-SHA1: a48b0fd00485723046597f49933d5d66ab794832
-SHA256: 02798b58d993531be4278ef12ad327f927b833cc63edc2fd45c202183af7bcc3
+Size: 1767066
+MD5sum: 3804704818a4bac300dc60d9c006754c
+SHA1: ba64d6dfb88b7607465b0db2df47c8dac94fe5f4
+SHA256: 3ff2517b21362ee800210ca3c3ff8f2462810f55621d410f2f6725828f36f93f
 Section: Space Banana
 Homepage: http://www.djaovx.me/
 Description: Space Banana for iPhone.
-Author: Djaovx < Djaovx@outlook.com >
+Author: Djaovx <Djaovx@outlook.com>
 Name: Space Banana (iPhone)
 
