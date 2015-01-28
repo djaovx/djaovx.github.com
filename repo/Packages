@@ -1,0 +1,80 @@
+Package: com.djaovx.spacebananacover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananacover.deb
+Size: 242954
+MD5sum: 04524dbea01b0fb4ee26cc1512cb53b6
+SHA1: 4f6502e54b6907b0db4ff3ddeddb0cb067620117
+SHA256: 0e0e04d66012c2e8337cb160e2e76d7d8f855744110d220b82ec7285b0a0a52f
+Section: Space Banana
+Homepage: http://www.djaovx.me/
+Description: Two Custom Covers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Name: Space Banana - Customcover
+
+Package: com.djaovx.spacebananaipad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaipad.deb
+Size: 762778
+MD5sum: 6c52402ca1780ab98468ef2c5c5f9a40
+SHA1: 1c6f74a5dfb49b5b7c1701867ecfe1a2cae6e38c
+SHA256: f1b94230fc93813440b70a7d84540e4cb9688538acffef44d37cbee35844ad9b
+Section: Space Banana
+Homepage: http://www.djaovx.me/
+Description: Space Banana for iPad.
+Author: Djaovx <Djaovx@outlook.com>
+Name: Space Banana (iPad)
+
+Package: com.djaovx.spacebananaiphone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaiphone.deb
+Size: 1723472
+MD5sum: 393286c4f6c62e42faa8921c1673c8ed
+SHA1: 50440b606c3d3621218215a8ec458415eaede98b
+SHA256: d7e60aa36a60907fe3fae40767a8ce7da1dadcb17c1996166030c83610294cde
+Section: Space Banana
+Homepage: http://www.djaovx.me/
+Description: Space Banana for iPhone.
+Author: Djaovx <Djaovx@outlook.com>
+Name: Space Banana (iPhone)
+
+Package: com.djaovx.spacebananajelly
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananajelly.deb
+Size: 42982
+MD5sum: 8205865627b8ebbe2c157eade15a9e37
+SHA1: d9ca253f86afec8e665cd05628d4368ccc6a7567
+SHA256: 9ee988c2aed2464e93b8ff074d637d07d1d2cdfd0fea77e99a19e15dfdf83a34
+Section: Space Banana
+Homepage: http://www.djaovx.me/
+Description: Two JellyLock handlers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Name: Space Banana - JellyLock
+
+Package: com.djaovx.spacebananasplash
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananasplash.deb
+Size: 1315450
+MD5sum: 08af4795333cc88ee65ef8e10e9a8745
+SHA1: bc3887c234cc2fbf281e54e69bbbdf7e4b487170
+SHA256: c16558e684f4d6a93a905db2be612ca97dd2f3142b03e991af11db4d519c258c
+Section: Space Banana
+Homepage: http://www.djaovx.me/
+Description: Splashscreens for Space Banana. These splashscreens only work fully on iOS 7 for these devices: iPhone 5S/5/4S/4.
+Author: Djaovx <Djaovx@outlook.com>
+Name: Space Banana - Splashscreens
+
