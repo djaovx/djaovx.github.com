@@ -1,0 +1,8 @@
+Origin: Djaovx's Repo
+Label: Djaovx's Repo
+Suite: stable
+Version: 1.0
+Codename: djaovx
+Architectures: iphoneos-arm
+Components: main
+Description: Repo for some free & nice stuff by Djaovx!
