@@ -1,0 +1,101 @@
+Package: com.djaovx.Icon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///Icon.deb
+Size: 16114
+MD5sum: c88188c5c5fe43e5db025db39524b18a
+SHA1: 97b5a4fac604eccd8232543a0b681a0c375c588d
+SHA256: 6cd25169197fb8b8ea43dcd2204151d1640e50db45f64720aed3a37de099a866
+Section: Djaovx
+Homepage: http://www.djaovx.me/
+Description: Icons for Djaovx's repo.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Djaovx.png
+Name: Djaovx Repo Icons
+
+Package: com.djaovx.spacebananacover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananacover.deb
+Size: 256142
+MD5sum: 04efe481da67835199db7056ebb4535b
+SHA1: 468d5fbb988cd7034d61d39f7e3a895256c0d2e2
+SHA256: a7db7c254edeb457159a17ea1c8a92a42e5d1e27160d25ecea1f06623ef311a9
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Two Custom Covers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana - Customcover
+
+Package: com.djaovx.spacebananaipad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaipad.deb
+Size: 804686
+MD5sum: abd65388d5eb9c04b2cb474ade26c6d0
+SHA1: eb268c41221a21447b6037a27e310009ef378851
+SHA256: 825b325f26c75e25b2156e51cba850792a0139518c759e4b4dccde39f97e9a9b
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Space Banana for iPad. Requires IconBundles!
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana (iPad)
+
+Package: com.djaovx.spacebananaiphone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaiphone.deb
+Size: 1766370
+MD5sum: 442999a9d37fdbb9a0ce3c6c7672363e
+SHA1: 17b58468d0f96e50a96725db2f5a4250bd04521d
+SHA256: 4735f61ce7e09caaf6920600981c375a403394914ef0526d0abca36e890496df
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Space Banana for iPhone.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana (iPhone)
+
+Package: com.djaovx.spacebananajelly
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananajelly.deb
+Size: 43844
+MD5sum: f3ec7966a9b3b68b662ecd3c24c45224
+SHA1: 3d17cf1b5cb0f9e0c09464bfcb01d14db295feb5
+SHA256: 8a69f73ffb7cecfec29d0d36dd9da407cdf329b271b54ebfe73b8487cc2bb365
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Two JellyLock handlers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana - JellyLock
+
+Package: com.djaovx.spacebananasplash
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananasplash.deb
+Size: 1622302
+MD5sum: cbd7b13602e27fc14443927590c0c590
+SHA1: b56fa26361ba81ea5fffdd20a14ff5d3a8ee13a9
+SHA256: 52a067a27765faec18d9a63b35ee8f2d1b30a16cb0462e011ba21fe0b8e6b7af
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Splashscreens for Space Banana. These splashscreens only work fully on iOS 7 for these devices: iPhone 5S/5/4S/4.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana - Splashscreens
+
