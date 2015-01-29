@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///Icon.deb
-Size: 19662
-MD5sum: 79d989beeb43d4b6b463c63fb11e548a
-SHA1: 1d1e7094c5ce7bf1fdb7b7528743fda21d34bc76
-SHA256: c75fa6823e1014d1dde28f34d17eb32c39343bef3561b56f791b0fff8b4b2387
+Size: 19126
+MD5sum: e6e76dd12ec905758845ffa0c69ce3f2
+SHA1: 3b5ecaae05276b1b38b243dd2b587036399499b1
+SHA256: 6656183571497d3630d905e9a4db3988c1d062fde2f05de4ac70a530b8e1e25f
 Section: Djaovx
 Homepage: http://www.djaovx.me/
 Description: Icons for Djaovx's repo.
