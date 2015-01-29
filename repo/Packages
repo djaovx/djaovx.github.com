@@ -3,15 +3,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///Icon.deb
-Size: 17286
-MD5sum: c9d5a3f85d0ce302593f3241379b7c90
-SHA1: b2ec58c05b7feff7991358f630bf551358f30276
-SHA256: f706beb2c8f03d191a71e1e7f53a526b9ee6f686d3d0031e6a77d3e4ec539732
-Section: Repo
+Size: 17310
+MD5sum: 00a21dcc3fc46dc1da6aee1e88a105c6
+SHA1: bd99d5f2802832713ae6c50946405f74c1062d0f
+SHA256: ec1c830796739bd764bb54e0691d1eb6129cda98076761c0a9dcdec14da451f3
+Section: Djaovx
 Homepage: http://www.djaovx.me/
 Description: Icons for Djaovx's repo.
 Author: Djaovx <Djaovx@outlook.com>
-Icon: ///Applications/Cydia.app/Sections/Djaovx
+Icon: ///Applications/Cydia.app/Sections/Djaovx.png
 Name: Djaovx Repo Icons
 
 Package: com.djaovx.spacebananaiphone
@@ -20,14 +20,14 @@ Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananaiphone.deb
-Size: 1767472
-MD5sum: 9c64b3f7927615c1044132ba9cb4377d
-SHA1: 4593e6f1297c2212974d222cebbc992de2926a3b
-SHA256: cd2b6dfb8dd6c8b547d39f28a88dbc711feac8adbd75317cfe633071da5ec831
+Size: 1767506
+MD5sum: d44bc55a3a87f6792e79940f0f54ae6a
+SHA1: b1f5196da03ec1328362be23478bec57cce6e472
+SHA256: af89e7da8ac55a2e9bbc5f1a5d87b380d3e5052330778383715718f9c75eb27b
 Section: Space Banana
 Homepage: http://www.djaovx.me/
 Description: Space Banana for iPhone.
 Author: Djaovx <Djaovx@outlook.com>
-Icon: ///Applications/Cydia.app/Sections/SpaceBanana.png
+Icon: ///Applications/Cydia.app/Sections/Space Banana.png
 Name: Space Banana (iPhone)
 
