@@ -54,13 +54,13 @@ Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananaiphone.deb
-Size: 1766370
-MD5sum: 442999a9d37fdbb9a0ce3c6c7672363e
-SHA1: 17b58468d0f96e50a96725db2f5a4250bd04521d
-SHA256: 4735f61ce7e09caaf6920600981c375a403394914ef0526d0abca36e890496df
+Size: 1766418
+MD5sum: e689cee7ae6380904e0d24dec37fe981
+SHA1: b9a26f2823369cb5e2c2667ca683212eec48d4da
+SHA256: 33f1847c20161f0a5be6089220cdd6a8a43dfb122f9921f30c4fd44a8945a2b0
 Section: Themes
 Homepage: http://www.djaovx.me/
-Description: Space Banana for iPhone.
+Description: Space Banana for iPhone. Requires IconBundles!
 Author: Djaovx <Djaovx@outlook.com>
 Icon: ///Applications/Cydia.app/Sections/Themes.png
 Name: Space Banana (iPhone)

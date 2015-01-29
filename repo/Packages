@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///Icon.deb
-Size: 16114
-MD5sum: c88188c5c5fe43e5db025db39524b18a
-SHA1: 97b5a4fac604eccd8232543a0b681a0c375c588d
-SHA256: 6cd25169197fb8b8ea43dcd2204151d1640e50db45f64720aed3a37de099a866
+Size: 19662
+MD5sum: 79d989beeb43d4b6b463c63fb11e548a
+SHA1: 1d1e7094c5ce7bf1fdb7b7528743fda21d34bc76
+SHA256: c75fa6823e1014d1dde28f34d17eb32c39343bef3561b56f791b0fff8b4b2387
 Section: Djaovx
 Homepage: http://www.djaovx.me/
 Description: Icons for Djaovx's repo.
@@ -14,22 +14,37 @@ Author: Djaovx <Djaovx@outlook.com>
 Icon: ///Applications/Cydia.app/Sections/Djaovx.png
 Name: Djaovx Repo Icons
 
-Package: com.djaovx.spacebananacover
+Package: com.djaovx.customcovercase
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
-Depends: Winterboard
-Filename: .///spacebananacover.deb
-Size: 256142
-MD5sum: 04efe481da67835199db7056ebb4535b
-SHA1: 468d5fbb988cd7034d61d39f7e3a895256c0d2e2
-SHA256: a7db7c254edeb457159a17ea1c8a92a42e5d1e27160d25ecea1f06623ef311a9
-Section: Themes
+Filename: .///customcovercase.deb
+Size: 169754
+MD5sum: 160b9486be962ef9a50a5630fb71fe68
+SHA1: 9163eebda77194855537605c4bcb7c829bb685da
+SHA256: 176093cbc7abcbf727503f9fbc2da293e0b434ea3ad0a89c3870e03baf4d96c1
+Section: CustomCover
 Homepage: http://www.djaovx.me/
-Description: Two Custom Covers for Space Banana.
+Description: A CD Case to use with CustomCover.
 Author: Djaovx <Djaovx@outlook.com>
-Icon: ///Applications/Cydia.app/Sections/Themes.png
-Name: Space Banana - Customcover
+Icon: ///Applications/Cydia.app/Sections/CustomCover.png
+Name: CustomCover - CD Case
+
+Package: com.djaovx.customcoversquares
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///customcoversquares.deb
+Size: 256124
+MD5sum: 71428f80f3bae4c3bdeca29b59b8e6cd
+SHA1: de64dbcba2a8d64f5368dd648615cd227c213b69
+SHA256: 67615745baba90026064b7a210064ea7b9ebcd9cd8765c5a96893f8a17dd86a0
+Section: CustomCover
+Homepage: http://www.djaovx.me/
+Description: Squares to use with CustomCover.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/CustomCover.png
+Name: CustomCover - Squares
 
 Package: com.djaovx.spacebananaipad
 Version: 1.0
