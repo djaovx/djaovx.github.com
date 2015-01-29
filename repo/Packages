@@ -35,10 +35,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///customcoversquares.deb
-Size: 256124
-MD5sum: 71428f80f3bae4c3bdeca29b59b8e6cd
-SHA1: de64dbcba2a8d64f5368dd648615cd227c213b69
-SHA256: 67615745baba90026064b7a210064ea7b9ebcd9cd8765c5a96893f8a17dd86a0
+Size: 90382
+MD5sum: 80c2044103f3db66dec776d9b8d10a1c
+SHA1: 723e6943ec426b0df281a6c071f3ee491272856c
+SHA256: e68973ecf7c1b4c8329274c40f5e0370859c7eb2cfb5eda2c51aede1ddc9750c
 Section: CustomCover
 Homepage: http://www.djaovx.me/
 Description: Squares to use with CustomCover.
