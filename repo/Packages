@@ -2,7 +2,7 @@ Package: com.djaovx.Icon
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
-Filename: .///bananatry/Icon.deb
+Filename: .///äker/Icon.deb
 Size: 16114
 MD5sum: c88188c5c5fe43e5db025db39524b18a
 SHA1: 97b5a4fac604eccd8232543a0b681a0c375c588d
@@ -19,7 +19,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
-Filename: .///spacebananacover.deb
+Filename: .///äker/spacebananacover.deb
 Size: 256702
 MD5sum: 2dc4c122f193298897c9e01c6bb23c5f
 SHA1: d53835fc00e38510f3b54e244af91a14d8f10d51
@@ -36,7 +36,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
-Filename: .///spacebananaipad.deb
+Filename: .///äker/spacebananaipad.deb
 Size: 805920
 MD5sum: 4a5443cc95c2803d16b69c5b1a835ab1
 SHA1: 3d0e8635769ead83cfb00d3b203c9fb2384fbc82
@@ -53,14 +53,14 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
-Filename: .///bananatry/spacebananaiphone.deb
-Size: 1766370
-MD5sum: 442999a9d37fdbb9a0ce3c6c7672363e
-SHA1: 17b58468d0f96e50a96725db2f5a4250bd04521d
-SHA256: 4735f61ce7e09caaf6920600981c375a403394914ef0526d0abca36e890496df
+Filename: .///äker/spacebananaiphone.deb
+Size: 1766970
+MD5sum: 5d09950d47b4fea4cc6115687684bd12
+SHA1: 8ff8a3aabc2bb95ca40490314b6318df3cab3b56
+SHA256: 7e83f8b7a39690cd5a98a67b15e1c1e6d9db00e6ee2d6800ffac121ead874e5c
 Section: Themes
 Homepage: http://www.djaovx.me/
-Description: Space Banana for iPhone.
+Description: Space Banana for iPhone. Requires IconBundles!
 Author: Djaovx <Djaovx@outlook.com>
 Icon: ///Applications/Cydia.app/Sections/Themes.png
 Name: Space Banana (iPhone)
@@ -70,7 +70,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
-Filename: .///spacebananajelly.deb
+Filename: .///äker/spacebananajelly.deb
 Size: 44368
 MD5sum: 34b90f6c79d479e758b4645ba206e563
 SHA1: f04850b7f4fc4f3412fc39e73c160fc803cebdbb
@@ -87,7 +87,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
-Filename: .///spacebananasplash.deb
+Filename: .///äker/spacebananasplash.deb
 Size: 1622832
 MD5sum: ccdea63a837b0ace76e9a9542cca95e7
 SHA1: dd404ab07389dbcb1e4462f5f4060e5184723bde
