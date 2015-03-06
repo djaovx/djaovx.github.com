@@ -51,11 +51,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///enkeliconomatic.deb
-Size: 117680
-MD5sum: f8c28e915390920664e095be6ec21a39
-SHA1: 3bf901f30cbf9105fe5b6b957a8b4af1481f0e88
-SHA256: 9cabb6195e9d97e4ef6070b3956bcd23a1631d6a498db144ffd8e641a5fdac87
-Section: Enkel
+Size: 117908
+MD5sum: 8f8e607280afc1b58dc53eaae7b36cfa
+SHA1: e512be26fae5875d6f4385558ee4a4d6b80cfa3e
+SHA256: 0dee3c4f786feb9d5cb53ca90eeee05c553a948fe15bc2ee9ed215a9651fbd19
+Section: Themes
 Homepage: http://www.djaovx.me/
 Description: Iconomatics for enkel.
 Author: Djaovx <Djaovx@outlook.com>
