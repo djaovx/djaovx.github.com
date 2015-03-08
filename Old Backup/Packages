@@ -46,22 +46,6 @@ Author: Djaovx <Djaovx@outlook.com>
 Icon: ///Applications/Cydia.app/Sections/CustomCover.png
 Name: CustomCover - Squares
 
-Package: com.djaovx.enkeliconomatic
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Djaovx <Djaovx@outlook.com>
-Filename: .///enkeliconomatic.deb
-Size: 117908
-MD5sum: 8f8e607280afc1b58dc53eaae7b36cfa
-SHA1: e512be26fae5875d6f4385558ee4a4d6b80cfa3e
-SHA256: 0dee3c4f786feb9d5cb53ca90eeee05c553a948fe15bc2ee9ed215a9651fbd19
-Section: Themes
-Homepage: http://www.djaovx.me/
-Description: Iconomatics for enkel.
-Author: Djaovx <Djaovx@outlook.com>
-Icon: ///Applications/Cydia.app/Sections/Themes.png
-Name: Enkel - Iconomatic
-
 Package: com.djaovx.spacebananaipad
 Version: 1.0
 Architecture: iphoneos-arm
