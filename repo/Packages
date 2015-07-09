@@ -62,6 +62,39 @@ Author: Djaovx <Djaovx@outlook.com>
 Icon: ///Applications/Cydia.app/Sections/Themes.png
 Name: Enkel - Iconomatic
 
+Package: com.djaovx.romankeypadthin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///romankeypadthin.deb
+Size: 20636
+MD5sum: 33d671701786d92352ac4edfa2fea550
+SHA1: d6a7f9f64c4a336e9f39e12ff1cf6b66328c7d1c
+SHA256: dbc42337ad5f58f98950a861154fdcaf8ea6e7600506e24eeac9fc1200adfc18
+Section: Themes
+Description: A simple Roman Keypad.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/romankeypadthin/index.html
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Roman Keypad (Thin)
+
+Package: com.djaovx.spacebananacover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananacover.deb
+Size: 256142
+MD5sum: 04efe481da67835199db7056ebb4535b
+SHA1: 468d5fbb988cd7034d61d39f7e3a895256c0d2e2
+SHA256: a7db7c254edeb457159a17ea1c8a92a42e5d1e27160d25ecea1f06623ef311a9
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Two Custom Covers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana - Customcover
+
 Package: com.djaovx.spacebananaipad
 Version: 1.0
 Architecture: iphoneos-arm
