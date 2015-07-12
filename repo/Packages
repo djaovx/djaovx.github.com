@@ -1,0 +1,164 @@
+Package: com.djaovx.Icon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///Icon.deb
+Size: 28652
+MD5sum: 3a93319676666fec6a48191e6f7a64b4
+SHA1: 77315416fad8c8cefe2bdbd8e127c2ff7f09bb7c
+SHA256: b312a129b5aa331b7332302dfa299ee09aa152aa4ebc24d05ff8a0f3c4e57e86
+Section: Djaovx
+Description: Icons for Djaovx's repo.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/icon/index.html
+Icon: ///Applications/Cydia.app/Sections/Djaovx.png
+Name: Djaovx Repo Icons
+
+Package: com.djaovx.clockskeypad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///clockskeypad.deb
+Size: 14040
+MD5sum: 704c0e0481b593974c7057d991c47ed7
+SHA1: 4786b9cd829fda415c0459e47a1b8bd75d138b03
+SHA256: 4f61200ef04e505652d175975792b2ed578839f81832775fbc347639f58e5d45
+Section: Modifications
+Description: Ever wanted to enter pass with clocks?
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/clockskeypad/index.html
+Icon: ///Applications/Cydia.app/Sections/Modifications.png
+Name: Clocks Keypad
+
+Package: com.djaovx.customcovercase
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///customcovercase.deb
+Size: 169712
+MD5sum: d1f9c520e7bea91ce073d7370cbe2f44
+SHA1: 8a46fd3b8de27b106fa220ed8484081fb248bf4b
+SHA256: d353bd54ad014e5982702b1c3d586edd978ec39432830cc0f354bc7129163f54
+Section: Modifications
+Description: A CD Case to use with CustomCover.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/clockskeypad/index.html
+Icon: ///Applications/Cydia.app/Sections/Modifications.png
+Name: CustomCover - CD Case
+
+Package: com.djaovx.customcoversquares
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///customcoversquares.deb
+Size: 91544
+MD5sum: 346d21461ea5b8a1e4b1aa0330eb24cd
+SHA1: 3eeb71687128bcb6e7fbb2347f88317deab3520e
+SHA256: c24055c9d148af9a06c123e1b4a56ddbbb865680d9ab7e149a3fffcfd79cbaa7
+Section: Modifications
+Description: Squares to use with CustomCover.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/customcoversquares/index.html
+Icon: ///Applications/Cydia.app/Sections/Modifications.png
+Name: CustomCover - Squares
+
+Package: com.djaovx.enkeliconomatic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///enkeliconomatic.deb
+Size: 117926
+MD5sum: 3c941a6ec8b4952a7b31cf3a639b7215
+SHA1: b8b46e89cc803bb50817ebf921ff337ccd322658
+SHA256: bc7b66d154e4a09a416ec401ea41e002bd6c9626c9f2d52a02abf1bb57ef8d48
+Section: Modifications
+Description: Iconomatics for enkel.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/customcoversquares/index.html
+Icon: ///Applications/Cydia.app/Sections/Modifications.png
+Name: Enkel - Iconomatic
+
+Package: com.djaovx.romankeypadthin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///romankeypadthin.deb
+Size: 20630
+MD5sum: a826be7c0e3cc05a562c72452a725c43
+SHA1: ad1071c61eb8b690756033b47ea02b6e7694d3e5
+SHA256: ba58b9c6b677388fd245b3914992a537bc9345bb85d841e782dd8b063e7ef9be
+Section: Modifications
+Description: A simple Roman Keypad.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/romankeypadthin/index.html
+Icon: ///Applications/Cydia.app/Sections/Modifications.png
+Name: Roman Keypad (Thin)
+
+Package: com.djaovx.spacebananaipad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaipad.deb
+Size: 802790
+MD5sum: 0a6083afcf64710ff34c327cae792209
+SHA1: 77ae2232b44163df630f1f1fd2ae00e793f4fcfb
+SHA256: d9d8f0ec31c6f0c29f29357cfda0ac48fa56718a681ee9a35800f5159b48a953
+Section: Space Banana
+Description: Space Banana for iPad. Requires IconBundles!
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/spacebananaipad/index.html
+Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Name: Space Banana (iPad)
+
+Package: com.djaovx.spacebananaiphone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaiphone.deb
+Size: 1767566
+MD5sum: abe0b45cda839eee13c123bcee6b4f0f
+SHA1: b366a928d23717785c2d0b387c6fa19695f961cf
+SHA256: a7e2d6becd5e5dc25724b00916b9a6cb0a6526913e0a145854ba4f10e238d84a
+Section: Space Banana
+Description: Space Banana for iPhone. Requires IconBundles!
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/spacebananaiphone/index.html
+Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Name: Space Banana (iPhone)
+
+Package: com.djaovx.spacebananajelly
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananajelly.deb
+Size: 45250
+MD5sum: f7b8a4c29332c00809f40f5080ccab03
+SHA1: 58a96bc70a1242cd3dfbffef2f595e232d3d7ec8
+SHA256: 6fd391856bd10cd841283e1dc22ccf0001076d1141204efe6133d52e11859c4d
+Section: Space Banana
+Description: Two JellyLock handlers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/spacebananajelly/index.html
+Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Name: Space Banana - JellyLock
+
+Package: com.djaovx.spacebananasplash
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananasplash.deb
+Size: 1622004
+MD5sum: 0f1e50296a70b80c4d395db406e7a678
+SHA1: 609b3d0bda3610b5645379434586448bd2178982
+SHA256: b1b6ee600ffe76ce77ad209b1373c9da602d10e6e553206b2cdacee97a7b0523
+Section: Space Banana
+Description: Splashscreens for Space Banana. These splashscreens only work fully on iOS 7 for these devices: iPhone 5S/5/4S/4.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/spacebananajelly/index.html
+Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Name: Space Banana - Splashscreens
+
