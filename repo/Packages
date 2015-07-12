@@ -19,10 +19,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///clockskeypad.deb
-Size: 14040
-MD5sum: 704c0e0481b593974c7057d991c47ed7
-SHA1: 4786b9cd829fda415c0459e47a1b8bd75d138b03
-SHA256: 4f61200ef04e505652d175975792b2ed578839f81832775fbc347639f58e5d45
+Size: 11514
+MD5sum: dfe4e3506a565645fb5364584c80c558
+SHA1: 039c000c0d779d267de27fcf0971582eb7ce6d2d
+SHA256: 2947a986931600ca2118beb4c6dc7c4df5e92ae836a890e99083af4a010f68c8
 Section: Modifications
 Description: Ever wanted to enter pass with clocks?
 Author: Djaovx <Djaovx@outlook.com>
