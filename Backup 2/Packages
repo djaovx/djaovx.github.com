@@ -3,16 +3,32 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///Icon.deb
-Size: 19126
-MD5sum: e6e76dd12ec905758845ffa0c69ce3f2
-SHA1: 3b5ecaae05276b1b38b243dd2b587036399499b1
-SHA256: 6656183571497d3630d905e9a4db3988c1d062fde2f05de4ac70a530b8e1e25f
+Size: 28652
+MD5sum: 3a93319676666fec6a48191e6f7a64b4
+SHA1: 77315416fad8c8cefe2bdbd8e127c2ff7f09bb7c
+SHA256: b312a129b5aa331b7332302dfa299ee09aa152aa4ebc24d05ff8a0f3c4e57e86
 Section: Djaovx
-Homepage: http://www.djaovx.me/
 Description: Icons for Djaovx's repo.
 Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/icon/index.html
 Icon: ///Applications/Cydia.app/Sections/Djaovx.png
 Name: Djaovx Repo Icons
+
+Package: com.djaovx.clockskeypad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///clockskeypad.deb
+Size: 14040
+MD5sum: 704c0e0481b593974c7057d991c47ed7
+SHA1: 4786b9cd829fda415c0459e47a1b8bd75d138b03
+SHA256: 4f61200ef04e505652d175975792b2ed578839f81832775fbc347639f58e5d45
+Section: Modifications
+Description: Ever wanted to enter pass with clocks?
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/clockskeypad/index.html
+Icon: ///Applications/Cydia.app/Sections/Modifications.png
+Name: Clocks Keypad
 
 Package: com.djaovx.customcovercase
 Version: 1.0
@@ -67,15 +83,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///romankeypadthin.deb
-Size: 20636
-MD5sum: 33d671701786d92352ac4edfa2fea550
-SHA1: d6a7f9f64c4a336e9f39e12ff1cf6b66328c7d1c
-SHA256: dbc42337ad5f58f98950a861154fdcaf8ea6e7600506e24eeac9fc1200adfc18
-Section: Themes
+Size: 20630
+MD5sum: a826be7c0e3cc05a562c72452a725c43
+SHA1: ad1071c61eb8b690756033b47ea02b6e7694d3e5
+SHA256: ba58b9c6b677388fd245b3914992a537bc9345bb85d841e782dd8b063e7ef9be
+Section: Modifications
 Description: A simple Roman Keypad.
 Author: Djaovx <Djaovx@outlook.com>
 Depiction: http://djaovx.github.io/Depic/romankeypadthin/index.html
-Icon: ///Applications/Cydia.app/Sections/Themes.png
+Icon: ///Applications/Cydia.app/Sections/Modifications.png
 Name: Roman Keypad (Thin)
 
 Package: com.djaovx.spacebananacover
