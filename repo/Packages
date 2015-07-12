@@ -1,0 +1,165 @@
+Package: com.djaovx.Icon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///Icon.deb
+Size: 19126
+MD5sum: e6e76dd12ec905758845ffa0c69ce3f2
+SHA1: 3b5ecaae05276b1b38b243dd2b587036399499b1
+SHA256: 6656183571497d3630d905e9a4db3988c1d062fde2f05de4ac70a530b8e1e25f
+Section: Djaovx
+Homepage: http://www.djaovx.me/
+Description: Icons for Djaovx's repo.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Djaovx.png
+Name: Djaovx Repo Icons
+
+Package: com.djaovx.customcovercase
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///customcovercase.deb
+Size: 169754
+MD5sum: 160b9486be962ef9a50a5630fb71fe68
+SHA1: 9163eebda77194855537605c4bcb7c829bb685da
+SHA256: 176093cbc7abcbf727503f9fbc2da293e0b434ea3ad0a89c3870e03baf4d96c1
+Section: CustomCover
+Homepage: http://www.djaovx.me/
+Description: A CD Case to use with CustomCover.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/CustomCover.png
+Name: CustomCover - CD Case
+
+Package: com.djaovx.customcoversquares
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///customcoversquares.deb
+Size: 90382
+MD5sum: 80c2044103f3db66dec776d9b8d10a1c
+SHA1: 723e6943ec426b0df281a6c071f3ee491272856c
+SHA256: e68973ecf7c1b4c8329274c40f5e0370859c7eb2cfb5eda2c51aede1ddc9750c
+Section: CustomCover
+Homepage: http://www.djaovx.me/
+Description: Squares to use with CustomCover.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/CustomCover.png
+Name: CustomCover - Squares
+
+Package: com.djaovx.enkeliconomatic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///enkeliconomatic.deb
+Size: 117908
+MD5sum: 8f8e607280afc1b58dc53eaae7b36cfa
+SHA1: e512be26fae5875d6f4385558ee4a4d6b80cfa3e
+SHA256: 0dee3c4f786feb9d5cb53ca90eeee05c553a948fe15bc2ee9ed215a9651fbd19
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Iconomatics for enkel.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Enkel - Iconomatic
+
+Package: com.djaovx.romankeypadthin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Filename: .///romankeypadthin.deb
+Size: 20636
+MD5sum: 33d671701786d92352ac4edfa2fea550
+SHA1: d6a7f9f64c4a336e9f39e12ff1cf6b66328c7d1c
+SHA256: dbc42337ad5f58f98950a861154fdcaf8ea6e7600506e24eeac9fc1200adfc18
+Section: Themes
+Description: A simple Roman Keypad.
+Author: Djaovx <Djaovx@outlook.com>
+Depiction: http://djaovx.github.io/Depic/romankeypadthin/index.html
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Roman Keypad (Thin)
+
+Package: com.djaovx.spacebananacover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananacover.deb
+Size: 256142
+MD5sum: 04efe481da67835199db7056ebb4535b
+SHA1: 468d5fbb988cd7034d61d39f7e3a895256c0d2e2
+SHA256: a7db7c254edeb457159a17ea1c8a92a42e5d1e27160d25ecea1f06623ef311a9
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Two Custom Covers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana - Customcover
+
+Package: com.djaovx.spacebananaipad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaipad.deb
+Size: 804686
+MD5sum: abd65388d5eb9c04b2cb474ade26c6d0
+SHA1: eb268c41221a21447b6037a27e310009ef378851
+SHA256: 825b325f26c75e25b2156e51cba850792a0139518c759e4b4dccde39f97e9a9b
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Space Banana for iPad. Requires IconBundles!
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana (iPad)
+
+Package: com.djaovx.spacebananaiphone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananaiphone.deb
+Size: 1766418
+MD5sum: e689cee7ae6380904e0d24dec37fe981
+SHA1: b9a26f2823369cb5e2c2667ca683212eec48d4da
+SHA256: 33f1847c20161f0a5be6089220cdd6a8a43dfb122f9921f30c4fd44a8945a2b0
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Space Banana for iPhone. Requires IconBundles!
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana (iPhone)
+
+Package: com.djaovx.spacebananajelly
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananajelly.deb
+Size: 43844
+MD5sum: f3ec7966a9b3b68b662ecd3c24c45224
+SHA1: 3d17cf1b5cb0f9e0c09464bfcb01d14db295feb5
+SHA256: 8a69f73ffb7cecfec29d0d36dd9da407cdf329b271b54ebfe73b8487cc2bb365
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Two JellyLock handlers for Space Banana.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana - JellyLock
+
+Package: com.djaovx.spacebananasplash
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Djaovx <Djaovx@outlook.com>
+Depends: Winterboard
+Filename: .///spacebananasplash.deb
+Size: 1622302
+MD5sum: cbd7b13602e27fc14443927590c0c590
+SHA1: b56fa26361ba81ea5fffdd20a14ff5d3a8ee13a9
+SHA256: 52a067a27765faec18d9a63b35ee8f2d1b30a16cb0462e011ba21fe0b8e6b7af
+Section: Themes
+Homepage: http://www.djaovx.me/
+Description: Splashscreens for Space Banana. These splashscreens only work fully on iOS 7 for these devices: iPhone 5S/5/4S/4.
+Author: Djaovx <Djaovx@outlook.com>
+Icon: ///Applications/Cydia.app/Sections/Themes.png
+Name: Space Banana - Splashscreens
+
