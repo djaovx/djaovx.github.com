@@ -100,15 +100,15 @@ Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananaipad.deb
-Size: 802810
-MD5sum: ecd98cacc074379f25effd3561dfd95a
-SHA1: 187faba1f2f145a73bc7afdbf01c0f352ab3b4c3
-SHA256: 27f27fe020513c96a6332a7e27bf55e881d117705b9dea2212058fa4daf0eeaf
-Section: Space Banana
+Size: 802798
+MD5sum: 786ac2644c048a466b317033f204c4b4
+SHA1: 04cad66d0c87533d995b993dc7fe2ff7ec9bfabf
+SHA256: 631c7d66ef4a8f954e9d6b83262c030fead4d5a9906aac1527dbda6a7b3a12b6
+Section: SpaceBanana
 Description: Space Banana for iPad. Requires IconBundles!
 Author: Djaovx <Djaovx@outlook.com>
 Depiction: http://djaovx.github.io/Depic/spacebananaipad/index.html
-Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Icon: ///Applications/Cydia.app/Sections/SpaceBanana.png
 Name: Space Banana (iPad)
 
 Package: com.djaovx.spacebananaiphone
@@ -117,15 +117,15 @@ Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananaiphone.deb
-Size: 1766842
-MD5sum: 545efb8e8840074139d75aa3759aa37c
-SHA1: ffaedf21954d9105340f7dae8978d8ebefc4782e
-SHA256: c652f3e3c5ea7da9dfc34da28b3b85de7d61a899368d8df024bf8a9a174480c6
-Section: Space Banana
+Size: 1766852
+MD5sum: 5f6424371186f146b6421e1168abb10c
+SHA1: 26291068ff259662070d73e8eb9c75b5c81a34f6
+SHA256: aa6c733b0d1f5c8680e6df856b1f27c4d5cc5fc3905c0ce6fb9a7deb9f3ae1fa
+Section: SpaceBanana
 Description: Space Banana for iPhone. Requires IconBundles!
 Author: Djaovx <Djaovx@outlook.com>
 Depiction: http://djaovx.github.io/Depic/spacebananaiphone/index.html
-Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Icon: ///Applications/Cydia.app/Sections/SpaceBanana.png
 Name: Space Banana (iPhone)
 
 Package: com.djaovx.spacebananajelly
@@ -134,15 +134,15 @@ Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananajelly.deb
-Size: 43728
-MD5sum: 64e831156f651bec323c9c3bbea56bab
-SHA1: b53672469d7935ca5833316d08a9ee1a8d1a0dc3
-SHA256: cc71e468692992a36d0cbaa50807745aaf1bfb40c50b0df8a714224e5ea82f18
-Section: Space Banana
+Size: 43720
+MD5sum: 31b6199b98c7d06024d07355e89ea41d
+SHA1: 8467e640c8fb1c79d6466eb8f101660ee1f4e6b1
+SHA256: ae6cc5598f0aa83e6a4376b62638e5ac759eed872e4c2408cbd38ea380619fd2
+Section: SpaceBanana
 Description: Two JellyLock handlers for Space Banana.
 Author: Djaovx <Djaovx@outlook.com>
 Depiction: http://djaovx.github.io/Depic/spacebananajelly/index.html
-Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Icon: ///Applications/Cydia.app/Sections/SpaceBanana.png
 Name: Space Banana - JellyLock
 
 Package: com.djaovx.spacebananasplash
@@ -151,11 +151,11 @@ Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananasplash.deb
-Size: 1621848
-MD5sum: 5a6e7f1672a6bbb489888bfd48fa3c94
-SHA1: 64e0edf6ca875051151260d73fd0c2bedea1d272
-SHA256: 315cb4aa17d76b1640f55d2a72adc48c3fcdeb1a7b664a41ca7f87dbf16c22e6
-Section: Space Banana
+Size: 1621672
+MD5sum: a6e6d93de69b8779d542773d9e86aa36
+SHA1: 02f6144ae730173685d3e3d187bf3db272e54e04
+SHA256: 7fdf95379f05aa412a1de12caf7b4f9b3c568b005bdf72c36136bc24f27910e7
+Section: SpaceBanana
 Description: Splashscreens for Space Banana. These splashscreens only work fully on iOS 7 for these devices: iPhone 5S/5/4S/4.
 Author: Djaovx <Djaovx@outlook.com>
 Depiction: http://djaovx.github.io/Depic/spacebananasplash/index.html
