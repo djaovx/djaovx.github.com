@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///Icon.deb
-Size: 29548
-MD5sum: 82250b6633b9a0ae4e34b2a20b96d1e1
-SHA1: 33803750b81aeaec032feefc9984c1e924988fcb
-SHA256: f5c35783ded565e2541be7b90cf1fa1d8346cc6f020a821dec1d0ed3bcb8705b
+Size: 28648
+MD5sum: 69e4f5c084a2e94f7faa6e202e0eeef6
+SHA1: e142616135848fbb1dcf477199c73c3cde667148
+SHA256: 490fc7ddeb485180da2c40bb66f0228c08b8b8be2b8b196d89842eadf9bdb6cc
 Section: Djaovx
 Homepage: http://www.djaovx.me/
 Description: Icons for Djaovx's repo.
@@ -67,15 +67,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///romankeypadthin.deb
-Size: 20636
-MD5sum: 33d671701786d92352ac4edfa2fea550
-SHA1: d6a7f9f64c4a336e9f39e12ff1cf6b66328c7d1c
-SHA256: dbc42337ad5f58f98950a861154fdcaf8ea6e7600506e24eeac9fc1200adfc18
+Size: 20624
+MD5sum: 624b83279a50ae489458b73c93aabd2a
+SHA1: f5ef4c34cce4b3f3a9c6cf5ed836525f3f497f6f
+SHA256: 455ccec19fa35c50cc6e726e408942666c034fd2d527f29db0633a50d74b7fee
 Section: Themes
 Description: A simple Roman Keypad.
 Author: Djaovx <Djaovx@outlook.com>
 Depiction: http://djaovx.github.io/Depic/romankeypadthin/index.html
-Icon: ///Applications/Cydia.app/Sections/Themes.png
+Icon: ///Applications/Cydia.app/Sections/Theme.png
 Name: Roman Keypad (Thin)
 
 Package: com.djaovx.spacebananacover
