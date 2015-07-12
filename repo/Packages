@@ -78,21 +78,21 @@ Depiction: http://djaovx.github.io/Depic/enkeliconomatic/index.html
 Icon: ///Applications/Cydia.app/Sections/Modifications.png
 Name: Enkel - Iconomatic
 
-Package: com.djaovx.romankeypadthin
+Package: com.djaovx.romankeypads
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
-Filename: .///romankeypadthin.deb
-Size: 20630
-MD5sum: a826be7c0e3cc05a562c72452a725c43
-SHA1: ad1071c61eb8b690756033b47ea02b6e7694d3e5
-SHA256: ba58b9c6b677388fd245b3914992a537bc9345bb85d841e782dd8b063e7ef9be
+Filename: .///romankeypads.deb
+Size: 41130
+MD5sum: e24b9c06ceb7327f7437aaf55ccadcfa
+SHA1: 960aa3faaccb5ad82733f29646ce6c1424fd2c74
+SHA256: eb94f09b57ccd34b1fbf98b2c8791c869c2d21e281635a6d1f60c2c029f67ace
 Section: Modifications
-Description: A simple Roman Keypad.
+Description: Two versions of a simple Roman Keypad.
 Author: Djaovx <Djaovx@outlook.com>
-Depiction: http://djaovx.github.io/Depic/romankeypadthin/index.html
+Depiction: http://djaovx.github.io/Depic/romankeypads/index.html
 Icon: ///Applications/Cydia.app/Sections/Modifications.png
-Name: Roman Keypad (Thin)
+Name: Roman Keypads
 
 Package: com.djaovx.spacebananaipad
 Version: 1.0
