@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Filename: .///Icon.deb
-Size: 40294
-MD5sum: 04b7d3a64f83a533b46fca7695906144
-SHA1: cb49151c3e35a1dfeb055f9a0b03a03c1402bf3a
-SHA256: 91fb6a27db9c7eb45caf36fa2383509c8ba8db3e7ba6584981eeaaa6dc3f367d
+Size: 30974
+MD5sum: 27bdded84f313c80fb95dfe5247b65b1
+SHA1: 6952c48edcb5bc9ce1408fe736f40a9f5c45ae34
+SHA256: 69054909f887b7922205151b9971878cba4726c958e390aa8333bdc0e2883d67
 Section: Djaovx
 Description: Icons for Djaovx's repo.
 Author: Djaovx <Djaovx@outlook.com>
@@ -151,14 +151,14 @@ Architecture: iphoneos-arm
 Maintainer: Djaovx <Djaovx@outlook.com>
 Depends: Winterboard
 Filename: .///spacebananasplash.deb
-Size: 1621818
-MD5sum: 6b9e0665075f4012d0e6e0547d0b006d
-SHA1: 326f7601c7dfe27dd1b6c23bfd5f3c1580f5f33d
-SHA256: 0f4b85151a43ee2a033eff2a234761906657f5316c523f2c2e4194774cedecca
+Size: 1621848
+MD5sum: 5a6e7f1672a6bbb489888bfd48fa3c94
+SHA1: 64e0edf6ca875051151260d73fd0c2bedea1d272
+SHA256: 315cb4aa17d76b1640f55d2a72adc48c3fcdeb1a7b664a41ca7f87dbf16c22e6
 Section: Space Banana
 Description: Splashscreens for Space Banana. These splashscreens only work fully on iOS 7 for these devices: iPhone 5S/5/4S/4.
 Author: Djaovx <Djaovx@outlook.com>
 Depiction: http://djaovx.github.io/Depic/spacebananasplash/index.html
-Icon: ///Applications/Cydia.app/Sections/Space Banana.png
+Icon: ///Applications/Cydia.app/Sections/SpaceBanana.png
 Name: Space Banana - Splashscreens
 
